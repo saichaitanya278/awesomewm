@@ -84,7 +84,6 @@ _G.client.connect_signal(
 )
 awful.util.spawn_with_shell("nm-applet &")
 awful.util.spawn_with_shell("xfce4-power-manager &")
-awful.util.spawn_with_shell("pa-applet &")
 awful.util.spawn_with_shell("telegram-desktop &")
 awful.util.spawn_with_shell("flameshot &")
 awful.util.spawn_with_shell("picom &")
